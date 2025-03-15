@@ -1,3 +1,4 @@
+/// <reference types="node" />
 import TelegramBot from 'node-telegram-bot-api';
 import { setupCommandHandlers } from './commands';
 import { setupErrorHandlers } from './error-handlers';

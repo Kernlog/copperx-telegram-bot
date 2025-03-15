@@ -1,3 +1,4 @@
+/// <reference types="node" />
 import winston from 'winston';
 
 /**

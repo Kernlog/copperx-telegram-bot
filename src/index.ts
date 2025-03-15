@@ -1,3 +1,4 @@
+/// <reference types="node" />
 import dotenv from 'dotenv';
 import { initializeBot } from './bot';
 import { setupLogger } from './utils/logger';

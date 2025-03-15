@@ -1,3 +1,4 @@
+/// <reference types="node" />
 /**
  * Configuration object containing all environment variables
  */

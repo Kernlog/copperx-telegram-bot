@@ -53,4 +53,4 @@ temp/
 
 # Cache
 .eslintcache
-.npm 
+.npm logs/

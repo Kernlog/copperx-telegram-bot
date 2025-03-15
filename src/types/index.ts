@@ -1,3 +1,4 @@
+/// <reference types="node" />
 /**
  * Basic types for the Copperx Telegram Bot
  */
